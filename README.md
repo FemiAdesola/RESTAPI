@@ -1,0 +1,3 @@
+The REST application programming (API) was built to make a program for inserting personal information into a database, which their name, address, and their email. Age section is not included in this API, because is not required in most of the company to publicize the age of the staff. Also, this REST API can actually be used for storing equipment in a database.
+The handlebars were used as a template engine, the API was built by Node.js, Express.js, and mongoose used as a database to organize and store the data. 
+For the proper running of this program by a third party, a mongoose atlas need to be installed.
